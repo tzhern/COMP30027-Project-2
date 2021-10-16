@@ -1,5 +1,6 @@
 ## **The University of Melbourne**
 ## **COMP30027 (Machine Learning) Project 2**
+`Note: This is just the copy of the original project repository, the original project repository is kept private and is available upon request.`
 
 ## Table of contents
 * [Introduction](#introduction)
