@@ -2,6 +2,10 @@
 ## **COMP30027 (Machine Learning) Project 2**
 `Note: This is just the copy of the original project repository, the original project repository is kept private and is available upon request.`
 
+- Student Name: Zhi Hern Tom
+- Due Date: Wednesday 26th of May 2021 5:00:00 pm(AEST)
+- Report link: [Click here to view](project-2-report.pdf)
+
 ## Table of contents
 * [Introduction](#introduction)
 * [Technologies](#technologies)
