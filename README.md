@@ -17,5 +17,5 @@ The goal of this project is to build and critically analyse supervised Machine L
 4. matplotlib
 
 ## Instruction
-1. Open and run project-2.ipynb file
+1. Open and run [project-2.ipynb](project-2.ipynb) file
 2. After running the file, you can find the prediction under the folder "output"
